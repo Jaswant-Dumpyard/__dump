@@ -1,0 +1,10 @@
+modem.img
+system/system/etc/camera/license_release.lic
+system/system/apex/com.android.runtime.release.apex
+system/system/priv-app/Settings/Settings.apk
+system/system/priv-app/Browser/Browser.apk
+system/system/priv-app/OppoGallery2/OppoGallery2.apk
+system/system/preload/OppoVideoEditor/OppoVideoEditor.apk
+product/priv-app/Velvet/Velvet.apk
+vendor/etc/camera/sensetime
+vendor/etc/camera/model/license.lic

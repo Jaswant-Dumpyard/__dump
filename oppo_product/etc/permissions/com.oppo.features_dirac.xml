@@ -1,0 +1,9 @@
+<!-- This file is used by Audio Service only(tuguang).  DO NOT MODIFY. -->
+
+<permissions>
+    <feature name="oppo.dirac.support.version2"/>
+    <feature name="oppo.soundeffect.support" />
+    <feature name="oppo.dirac.support" />
+<!-- Chenyang.Zhang@RM.MM.AudioServer.Effect, 2019/11/28, Add for dirac a2dp effect -->
+    <feature name="oppo.multimedia.dirac.a2dp.support" />
+</permissions>
