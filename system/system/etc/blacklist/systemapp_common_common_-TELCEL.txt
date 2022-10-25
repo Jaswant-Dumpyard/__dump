@@ -1,0 +1,7 @@
+com.gameloft.android.gdc
+com.facebook.katana
+com.facebook.orca
+com.celltick.lockscreen
+com.speedymovil.wire
+com.telcel.contenedor
+co.sitic.pp
