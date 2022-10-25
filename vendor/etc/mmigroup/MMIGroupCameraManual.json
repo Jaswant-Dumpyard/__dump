@@ -1,0 +1,16 @@
+{
+  "itemConfig": [
+    {
+      "showName": "FlashLightCali"
+    },
+    {
+      "showName": "DualCameraCali"
+    },
+    {
+      "showName": "DualCameraVerify"
+    },
+    {
+      "showName": "DualCameraBlur"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "itemConfig": [
+    {
+      "showName": "MainCamera"
+    },
+    {
+      "showName": "FrontCamera"
+    },
+    {
+      "showName": "WideCamera"
+    },
+    {
+      "showName": "MacroCamera"
+    },
+    {
+      "showName": "DepthCamera"
+    },
+    {
+      "showName": "BackDualCamera"
+    },
+    {
+      "showName": "MainCamera_light_leakage"
+    },
+    {
+      "showName": "DualCameraCali"
+    },
+    {
+      "showName": "DualCameraVerify"
+    },
+    {
+      "showName": "FlashLightCali"
+    },
+    {
+      "showName": "Flashlight"
+    }
+  ]
+}

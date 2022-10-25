@@ -1,0 +1,57 @@
+{
+  "itemConfig": [
+    {
+      "showName": "VersionInfo"
+    },
+    {
+      "showName": "KeyPad"
+    },
+    {
+      "showName": "Battery"
+    },
+    {
+      "showName": "Backlight"
+    },
+    {
+      "showName": "SdCard"
+    },
+    {
+      "showName": "MainSIMCard"
+    },
+    {
+      "showName": "SubSIMCard"
+    },
+    {
+      "showName": "TouchPanel",
+      "support": false
+    },
+    {
+      "showName": "SMARTPA"
+    },
+    {
+      "showName": "BackDualCamera",
+      "support": false
+    },
+    {
+      "showName": "MainCamera_light_leakage"
+    },
+    {
+      "showName": "GPS"
+    },
+    {
+      "showName": "Magnetic",
+      "paramconfig": {
+        "magnetism_tolerance": 30.0,
+        "support_calibrate": true,
+        "support_draw": true,
+        "support_test": true
+      }
+    },
+    {
+      "showName": "LPWGRawdata"
+    },
+    {
+      "showName": "NFC"
+    }
+  ]
+}

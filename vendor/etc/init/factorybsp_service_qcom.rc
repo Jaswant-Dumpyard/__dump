@@ -1,0 +1,28 @@
+
+#for wlan and bt ftmdaemon test
+on property:vendor.ptt_ffbm_bt=start
+    start bt_ftm
+
+on property:vendor.ptt_ffbm_bt=stop
+    stop bt_ftm
+
+on property:vendor.ptt_ffbm_wifi=start
+    #ifconfig wlan0 up
+    write /sys/module/wlan/parameters/con_mode 5
+    start ffbm_wifi
+
+on property:vendor.ptt_ffbm_wifi=stop
+    write /sys/module/wlan/parameters/con_mode 0
+    stop ffbm_wifi
+
+service ffbm_bt /vendor/bin/wififtm_wt
+    user root
+    group system vendor_qti_diag
+    seclabel u:r:wcnss_service:s0
+    disabled
+
+service ffbm_wifi /vendor/bin/wififtm_wt
+    user root
+    group system vendor_qti_diag
+    seclabel u:r:wcnss_service:s0
+    disabled

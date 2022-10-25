@@ -1,0 +1,232 @@
+{
+    "NIGHT": {
+        "REAR_MAIN_1": {
+            "HEAD_INFO": {
+                "TRIGGER_GAIN_1": 100,
+                "TRIGGER_GAIN_2": 400,
+                "TRIGGER_GAIN_3": 1000,
+                "TRIGGER_GAIN_4": 2000,
+                "TRIGGER_GAIN_5": 4000,
+                "TRIGGER_GAIN_6": 8000
+            },
+            "PROFILE_1": {
+                "FUSION_INTENSITY": 0.23,
+                "YDENOISE_HF": 0.2,
+                "YDENOISE_MF": 0.2,
+                "YDENOISE_LF": 0.1,
+                "SHARPEN_INTENSITY": 0.12,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.2,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_2": {
+                "FUSION_INTENSITY": 0.25,
+                "YDENOISE_HF": 0.3,
+                "YDENOISE_MF": 0.1,
+                "YDENOISE_LF": 0.1,
+                "SHARPEN_INTENSITY": 0.08,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_3": {
+                "FUSION_INTENSITY": 0.27,
+                "YDENOISE_HF": 0.9,
+                "YDENOISE_MF": 0.7,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.08,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_4": {
+                "FUSION_INTENSITY": 0.3,
+                "YDENOISE_HF": 0.5,
+                "YDENOISE_MF": 0.3,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.07,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_5": {
+                "FUSION_INTENSITY": 0.33,
+                "YDENOISE_HF": 0.7,
+                "YDENOISE_MF": 0.3,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.07,
+                "SATURATION": 0.8,
+                "UVDENOISE_INTENSITY": 0.4,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_6": {
+                "FUSION_INTENSITY": 0.35,
+                "YDENOISE_HF": 0.81,
+                "YDENOISE_MF": 0.5,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.07,
+                "SATURATION": 0.8,
+                "UVDENOISE_INTENSITY": 0.5,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            }
+        },
+        "REAR_WIDE_1": {
+            "HEAD_INFO": {
+                "TRIGGER_GAIN_1": 100,
+                "TRIGGER_GAIN_2": 400,
+                "TRIGGER_GAIN_3": 1000,
+                "TRIGGER_GAIN_4": 2000,
+                "TRIGGER_GAIN_5": 4000,
+                "TRIGGER_GAIN_6": 8000
+            },
+            "PROFILE_1": {
+                "FUSION_INTENSITY": 0.23,
+                "YDENOISE_HF": 0.2,
+                "YDENOISE_MF": 0.2,
+                "YDENOISE_LF": 0.1,
+                "SHARPEN_INTENSITY": 0.12,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.2,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_2": {
+                "FUSION_INTENSITY": 0.25,
+                "YDENOISE_HF": 0.3,
+                "YDENOISE_MF": 0.1,
+                "YDENOISE_LF": 0.1,
+                "SHARPEN_INTENSITY": 0.08,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_3": {
+                "FUSION_INTENSITY": 0.27,
+                "YDENOISE_HF": 0.9,
+                "YDENOISE_MF": 0.7,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.08,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_4": {
+                "FUSION_INTENSITY": 0.3,
+                "YDENOISE_HF": 0.5,
+                "YDENOISE_MF": 0.3,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.07,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_5": {
+                "FUSION_INTENSITY": 0.33,
+                "YDENOISE_HF": 0.7,
+                "YDENOISE_MF": 0.3,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.07,
+                "SATURATION": 0.8,
+                "UVDENOISE_INTENSITY": 0.4,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            },
+            "PROFILE_6": {
+                "FUSION_INTENSITY": 0.35,
+                "YDENOISE_HF": 0.81,
+                "YDENOISE_MF": 0.5,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.07,
+                "SATURATION": 0.8,
+                "UVDENOISE_INTENSITY": 0.5,
+                "GAMMA": 1.25,
+                "BRIGHTNESS": 0.75
+            }
+        },
+        "FRONT_MAIN_1": {
+            "HEAD_INFO": {
+                "TRIGGER_GAIN_1": 100,
+                "TRIGGER_GAIN_2": 400,
+                "TRIGGER_GAIN_3": 800,
+                "TRIGGER_GAIN_4": 1600,
+                "TRIGGER_GAIN_5": 3000,
+                "TRIGGER_GAIN_6": 4500
+            },
+            "PROFILE_1": {
+                "FUSION_INTENSITY": 0.23,
+                "YDENOISE_HF": 0.01,
+                "YDENOISE_MF": 0.01,
+                "YDENOISE_LF": 0.01,
+                "SHARPEN_INTENSITY": 0.15,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.05,
+                "GAMMA": 0.0,
+                "BRIGHTNESS": 0.0
+            },
+            "PROFILE_2": {
+                "FUSION_INTENSITY": 0.25,
+                "YDENOISE_HF": 0.15,
+                "YDENOISE_MF": 0.1,
+                "YDENOISE_LF": 0.05,
+                "SHARPEN_INTENSITY": 0.18,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.1,
+                "GAMMA": 0.0,
+                "BRIGHTNESS": 0.0
+            },
+            "PROFILE_3": {
+                "FUSION_INTENSITY": 0.27,
+                "YDENOISE_HF": 0.2,
+                "YDENOISE_MF": 0.15,
+                "YDENOISE_LF": 0.05,
+                "SHARPEN_INTENSITY": 0.2,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.15,
+                "GAMMA": 0.0,
+                "BRIGHTNESS": 0.0
+            },
+            "PROFILE_4": {
+                "FUSION_INTENSITY": 0.3,
+                "YDENOISE_HF": 0.3,
+                "YDENOISE_MF": 0.2,
+                "YDENOISE_LF": 0.1,
+                "SHARPEN_INTENSITY": 0.22,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.2,
+                "GAMMA": 0.0,
+                "BRIGHTNESS": 0.0
+            },
+            "PROFILE_5": {
+                "FUSION_INTENSITY": 0.33,
+                "YDENOISE_HF": 0.4,
+                "YDENOISE_MF": 0.2,
+                "YDENOISE_LF": 0.1,
+                "SHARPEN_INTENSITY": 0.25,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.25,
+                "GAMMA": 0.0,
+                "BRIGHTNESS": 0.0
+            },
+            "PROFILE_6": {
+                "FUSION_INTENSITY": 0.35,
+                "YDENOISE_HF": 0.5,
+                "YDENOISE_MF": 0.2,
+                "YDENOISE_LF": 0.1,
+                "SHARPEN_INTENSITY": 0.27,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 0.0,
+                "BRIGHTNESS": 0.0
+            }
+        }
+    }
+}
